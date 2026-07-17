@@ -34,7 +34,7 @@ motorepuestosya/
 5. Guarda y espera 1-2 minutos
 6. Tu sitio estará en: `https://tu-usuario.github.io/motorepuestosya/`
 
-### Con dominio personalizado (motorepuestosya.com):
+### Con dominio personalizado (davthormotos.com):
 1. En Settings → Pages → Custom domain, escribe `motorepuestosya.com`
 2. En tu registrador de dominio, crea estos registros DNS:
 
