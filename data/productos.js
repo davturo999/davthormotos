@@ -234,8 +234,8 @@ const PROMOCIONES = [
 
 const CONTACTO = {
   whatsapp: "573202274732",       // Número con código de país, sin + ni espacios
-  whatsappMensaje: "Hola! Vi su página motorepuestosya.com y tengo una consulta sobre repuestos 🏍️",
-  ciudad: "Colombia",
-  horario: "Lun – Sáb: 8am – 6pm",
-  email: "ventas@motorepuestosya.com"  // Actualiza cuando tengas el correo
+  whatsappMensaje: "Hola! Vi su página Davthormotos.com y tengo una consulta sobre repuestos",
+  ciudad: "Bogotá",
+  horario: "24/7 envios Bogota",
+  email: "ventas@davthormotos.com"  // Actualiza cuando tengas el correo
 };
